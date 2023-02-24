@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "aowkb_xiao")(type "KiCad")(uri "/Users/llmerlos/WS/pp/aowkb/PCB/symbols/xiao_nrf52840.kicad_sym")(options "")(descr ""))
+  (lib (name "aowkb_pswitch")(type "KiCad")(uri "/Users/llmerlos/WS/pp/aowkb/PCB/symbols/MSK-12C02_SMD_SPDT_SWITCH.kicad_sym")(options "")(descr ""))
+)

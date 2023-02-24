@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "picachoc36")(type "KiCad")(uri "/Users/llmerlos/WS/pp/aowkb/SCHEM/picachoc36/footprints")(options "")(descr ""))
+  (lib (name "aowkb")(type "KiCad")(uri "/Users/llmerlos/WS/pp/aowkb/PCB/footprints")(options "")(descr ""))
+)
